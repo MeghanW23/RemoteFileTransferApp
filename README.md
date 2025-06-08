@@ -5,4 +5,9 @@ The application is written fully in python, using `tkinter` for graphics and `pa
 
 Users can configure their own remote server information (username, private key path, hostname) in User Settings. Users can login using either their password or a private key.
 
-![login_private_key](assets/README_screenshots/1.png)
+![](assets/README_screenshots/1.png)
+![](assets/README_screenshots/4.png)
+![](assets/README_screenshots/2.png)
+![](assets/README_screenshots/3.png)
+![](assets/README_screenshots/5.png)
+![](assets/README_screenshots/6.png)
