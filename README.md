@@ -7,6 +7,7 @@ Users can configure their own remote server information (username, private key p
 
 ![](assets/README_screenshots/1.png)
 ![](assets/README_screenshots/4.png)
+![](assets/README_screenshots/7.png)
 ![](assets/README_screenshots/2.png)
 ![](assets/README_screenshots/3.png)
 ![](assets/README_screenshots/5.png)
