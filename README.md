@@ -3,4 +3,4 @@ This application transfer files to and from remote servers via a graphical user 
 
 The application is written fully in python, using `tkinter` for graphics and `paramiko` for transfering files. 
 
-Users can configure their own remote server information (username, private key path, hostname) in User Settings. Users can login using either their password or a private key. 
+Users can configure their own remote server information (username, private key path, hostname) in User Settings. Users can login using either their password or a private key.
