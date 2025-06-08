@@ -1,0 +1,3 @@
+
+PASTE INTO TERMINAL AND RUN: 
+pyinstaller --onedir --add-data "assets:assets" --icon assets/app_icon.ico --noconsole main.py
