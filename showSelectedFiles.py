@@ -21,7 +21,7 @@ class ShowSelectedFiles:
         # Title Label
         tk.Label(
             self.root,
-            text="Uploading to E3" if sending_filesystem == "local" else "Downloading from E3",
+            text="Uploading to Remote" if sending_filesystem == "local" else "Downloading from Remote",
             font=("Serif", 23, "bold"),
             bg=settings.window_bg,
         ).pack(padx=20, pady=10)
