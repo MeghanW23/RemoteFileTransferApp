@@ -1,6 +1,6 @@
 # Remote File Transfer App 
 
-**Link To Application (.dmg file):** https://drive.google.com/file/d/1nH2JVmrCC_0j3VXG2a_y3e23hgtUhIaV/view?usp=sharing
+**Link To Application (.dmg file):** https://drive.google.com/file/d/1nH2JVmrCC_0j3VXG2a_y3e23hgtUhIaV/view?usp=sharing (Use control + click if it won't open)
 
 
 This application transfer files to and from remote servers via a graphical user interface. It was designed to make the transfer of files to and from Boston Children's Hospital's High Performance Computing Cluster, E3, easier for those without a firm handle on command line file transfer tools like `rsync`.
