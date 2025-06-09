@@ -11,7 +11,7 @@ from transferFiles import TransferFiles
 from downloadingWindow import DownloadWindow
 
 
-testing_only: bool = False # allow access to the GUI without connection to E3 
+testing_only: bool = False # allow access to the GUI without connection to Remote 
 
 # create sftpInstance
 sftpInstance: authenticate.Sftp = authenticate.Sftp()
